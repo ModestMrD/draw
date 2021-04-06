@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T07:19:22.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="lNhlZRDSRd8B-ZYVVzRf" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T07:20:26.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="0ge-EMk6MGRArG1L-k8t" version="14.5.7" type="github">
   <diagram id="uSKKAsPbMHK0uGmOzB_K" name="Page-1">
     <mxGraphModel dx="886" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,15 @@
         </mxCell>
         <mxCell id="zHemF-dRCjPkqYXr7QED-3" value="客户系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zHemF-dRCjPkqYXr7QED-5" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zHemF-dRCjPkqYXr7QED-6" value="CRM数据库" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zHemF-dRCjPkqYXr7QED-7" value="客户数据库" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
