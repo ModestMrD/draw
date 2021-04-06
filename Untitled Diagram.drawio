@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T07:20:26.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="0ge-EMk6MGRArG1L-k8t" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T07:24:47.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="Oo1WCQH0MEX-BmNZRCpU" version="14.5.7" type="github">
   <diagram id="uSKKAsPbMHK0uGmOzB_K" name="Page-1">
     <mxGraphModel dx="886" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,11 +13,28 @@
         <mxCell id="zHemF-dRCjPkqYXr7QED-5" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="110" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zHemF-dRCjPkqYXr7QED-6" value="CRM数据库" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="210" width="100" height="60" as="geometry" />
+        <mxCell id="zHemF-dRCjPkqYXr7QED-6" value="Nginx" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="10" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zHemF-dRCjPkqYXr7QED-7" value="客户数据库" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="210" width="100" height="60" as="geometry" />
+        <mxCell id="zHemF-dRCjPkqYXr7QED-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.70999999999998" y="150" as="sourcePoint" />
+            <mxPoint x="159.70999999999998" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHemF-dRCjPkqYXr7QED-9" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419.71000000000004" y="150" as="sourcePoint" />
+            <mxPoint x="419.71000000000004" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHemF-dRCjPkqYXr7QED-13" value="&lt;br&gt;&lt;br&gt;CRM数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zHemF-dRCjPkqYXr7QED-14" value="&lt;br&gt;&lt;br&gt;客户数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="390" y="210" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
