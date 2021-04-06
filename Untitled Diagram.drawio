@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T07:30:02.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="gwE2WHsSxxIqga807Vwp" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T07:33:31.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="MQRVUFXFecVEBGefHHVr" version="14.5.7" type="github">
   <diagram id="uSKKAsPbMHK0uGmOzB_K" name="Page-1">
     <mxGraphModel dx="886" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#283618" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zHemF-dRCjPkqYXr7QED-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zHemF-dRCjPkqYXr7QED-2" target="zHemF-dRCjPkqYXr7QED-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zHemF-dRCjPkqYXr7QED-2" value="CRM系统 + 光谱检测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="220" y="140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -42,8 +39,28 @@
         <mxCell id="zHemF-dRCjPkqYXr7QED-18" value="&lt;span&gt;Nginx&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="360" y="30" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zHemF-dRCjPkqYXr7QED-25" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;" edge="1" parent="1" source="zHemF-dRCjPkqYXr7QED-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zHemF-dRCjPkqYXr7QED-22" value="MQTT" style="ellipse;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="145" width="70" height="50" as="geometry" />
+          <mxGeometry x="90" y="145" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zHemF-dRCjPkqYXr7QED-26" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="169.71" as="sourcePoint" />
+            <mxPoint x="220" y="169.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHemF-dRCjPkqYXr7QED-27" value="设备" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zHemF-dRCjPkqYXr7QED-28" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zHemF-dRCjPkqYXr7QED-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="245" as="sourcePoint" />
+            <mxPoint x="129.70999999999998" y="195.00000000000003" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
