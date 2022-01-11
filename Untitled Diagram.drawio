@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T06:53:09.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="J77MOhet8eNtCHzyRHei" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T07:01:14.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="p8lOa1zsroiM1iecHqeC" version="16.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#283618" math="0" shadow="0">
       <root>
@@ -72,11 +72,16 @@
             <mxPoint x="300" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SqT_S_i4YUq0WAKNXoHZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=31;fontColor=#FF3333;strokeColor=#FF9933;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SqT_S_i4YUq0WAKNXoHZ-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="410.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SqT_S_i4YUq0WAKNXoHZ-19" value="威光服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SqT_S_i4YUq0WAKNXoHZ-21" value="119-Redis服务器" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="410" width="80" height="80" as="geometry" />
+        <mxCell id="SqT_S_i4YUq0WAKNXoHZ-21" value="&lt;div&gt;&lt;span&gt;119-Redis服务器（&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;缓存查询数据，提升服务器响应速度）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="410" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SqT_S_i4YUq0WAKNXoHZ-24" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 31px&quot;&gt;威光系统服务架构图&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="40" width="30" height="270" as="geometry" />
